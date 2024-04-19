@@ -34,7 +34,7 @@ app.use(PrimeVue, { ripple: true })
     .component('pv-sidebar', Sidebar)
     .component('pv-avatar', Avatar)
     .component('pv-menu', Menu)
-    .component('pv-menu-bar', Menubar)
+    .component('pv-menubar', Menubar)
     .component('pv-toolbar', Toolbar);
 
 //Mount in app div
